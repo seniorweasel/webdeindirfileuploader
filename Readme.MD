@@ -13,14 +13,9 @@ The File Uploader is a feature that allows users to upload files to your applica
 
 
 ### Benefits
-
 - Simplified file sharing: Users can easily upload and share files with others.
-- Collaboration: Multiple users can upload files and collaborate on shared projects.
-- Organization: The application's file management system allows users to organize and manage their uploaded files efficiently.
-- Security: The file uploader includes necessary security measures to protect user data and prevent unauthorized access.
 
 ### Installation on server and usage:
-
 To use the File Uploader:
 
 1. Put all the files on "htdocs".
@@ -30,7 +25,3 @@ To use the File Uploader:
 5. Monitor the progress indicators to track the upload status.
 6. Once the upload is complete, you will be provided with a unique filename or identifier for your uploaded file.
 7. You can then access and manage your uploaded files through the application's file management system.
-
-### Conclusion
-
-The File Uploader feature simplifies the process of uploading and sharing files, promoting collaboration and organization within your application. It enhances the user experience by providing a seamless and secure way to manage and exchange files.
