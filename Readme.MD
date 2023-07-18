@@ -21,7 +21,7 @@ The File Uploader is a feature that allows users to upload files to your applica
 To use the File Uploader:
 
 1. Put all the files on "htdocs".
-2. Make sure the file upload parameter is on in your php.ini file.
+2. Make sure the file upload parameter is "on" in your php.ini file.
 3. Check env.php and reconfigure the stuff for yourself in there. It includes all the settings related to basic stuff.
 4. You can edit the front-end by yourself.
 5. Monitor the progress indicators to track the upload status.
