@@ -2,8 +2,8 @@
 
 The File Uploader is a feature that allows users to upload files to your application. It provides a convenient way to share files with others and collaborate on projects.
 
-[Imgur](https://i.imgur.com/kEg44ZE.png)
-[Imgur](https://imgur.com/Wdt5CZV.png)
+![Imgur](https://i.imgur.com/kEg44ZE.png)
+![Imgur](https://imgur.com/Wdt5CZV.png)
 ### How it Works
 
 1. Users navigate to the File Uploader page on your application.
